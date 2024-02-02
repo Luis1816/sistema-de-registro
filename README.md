@@ -5,3 +5,5 @@
 paaraa ejecutaar el sistema, debes poner:
 
 ```npm instaall reaact```
+
+sistema de Registro 2
